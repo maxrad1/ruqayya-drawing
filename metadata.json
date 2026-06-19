@@ -1,0 +1,6 @@
+{
+  "name": "مرسم رقية",
+  "description": "An interactive Arabic children's coloring page web app with fill bucket, free drawing, brush, eraser, undo, and printable A4 canvasses in a warm Muharram-inspired aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
